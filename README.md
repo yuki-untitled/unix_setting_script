@@ -1,0 +1,2 @@
+# unix_setting_script
+LinuxやmacOSで使用できる、自動設定シェルスクリプトファイルです。
